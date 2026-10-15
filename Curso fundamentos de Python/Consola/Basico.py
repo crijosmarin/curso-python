@@ -1,0 +1,1 @@
+print("Hola Mundo") # Imprime Hola Mundo por que es una linea de codigo
